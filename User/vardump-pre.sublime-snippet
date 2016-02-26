@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+echo '<pre>';
+var_dump(${1:value});
+echo '</pre>';
+]]></content>
+	<tabTrigger>varpre</tabTrigger>
+</snippet>
