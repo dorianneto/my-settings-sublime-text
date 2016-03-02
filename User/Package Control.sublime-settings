@@ -9,12 +9,15 @@
 		"All Autocomplete",
 		"Dictionaries",
 		"Emmet",
+		"Git",
 		"Laravel Blade Highlighter",
+		"Markdown Preview",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"PhpDoc",
 		"Select Quoted",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Terminal"
 	]
 }

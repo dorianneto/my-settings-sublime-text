@@ -31,10 +31,10 @@ Sugestões serão sempre bem vidas :)
 		],
 		"line_padding_bottom": 3,
 		"line_padding_top": 3,
-		"material_theme_accent_indigo": false,
+		"material_theme_accent_indigo": true,
 		"material_theme_accent_lime": false,
 		"material_theme_accent_orange": false,
-		"material_theme_accent_purple": true,
+		"material_theme_accent_purple": false,
 		"material_theme_accent_red": false,
 		"material_theme_accent_yellow": false,
 		"material_theme_bold_tab": true,
@@ -48,7 +48,13 @@ Sugestões serão sempre bem vidas :)
 		"material_theme_small_tab": true,
 		"material_theme_tabs_autowidth": false,
 		"material_theme_tabs_separator": true,
-		"material_theme_tree_headings": false,
+		"material_theme_tree_headings": true,
+		"material_theme_appbar_lime": false,
+		"material_theme_appbar_orange": false,
+		"material_theme_appbar_purple": false,
+		"material_theme_appbar_red": false,
+		"material_theme_appbar_yellow": false,
+		"material_theme_appbar_indigo": true,
 		"overlay_scroll_bars": "enabled",
 		"preview_on_click": true,
 		"rulers":
@@ -84,3 +90,6 @@ Sugestões serão sempre bem vidas :)
 - [PhpDoc](https://packagecontrol.io/packages/PhpDoc)
 - [Select Quoted](https://packagecontrol.io/packages/Select%20Quoted)
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
+- [Terminal](https://packagecontrol.io/packages/Terminal)
+- [Trailing​Spaces](https://packagecontrol.io/packages/TrailingSpaces)
+- [Git](https://packagecontrol.io/packages/Git)
