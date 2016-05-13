@@ -5,19 +5,27 @@
 	],
 	"installed_packages":
 	[
+		"Alda",
 		"AlignTab",
 		"All Autocomplete",
 		"Dictionaries",
+		"EJS",
 		"Emmet",
 		"Git",
+		"HTML5",
+		"HTMLBeautify",
 		"Laravel Blade Highlighter",
+		"LESS",
 		"Markdown Preview",
 		"Material Theme",
 		"Material Theme - Appbar",
 		"Package Control",
 		"PhpDoc",
+		"PHPIntel",
+		"Sass",
 		"Select Quoted",
 		"SublimeCodeIntel",
-		"Terminal"
+		"Terminal",
+		"TrailingSpaces"
 	]
 }

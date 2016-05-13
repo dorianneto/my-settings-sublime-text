@@ -3,4 +3,5 @@
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["ctrl+shift+'"], "command": "expand_selection", "args": {"to": "brackets"} },
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
 ]
