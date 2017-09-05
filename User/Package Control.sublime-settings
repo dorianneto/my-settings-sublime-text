@@ -5,11 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alda",
 		"AlignTab",
 		"All Autocomplete",
+		"Color Highlighter",
 		"Dayle Rees Color Schemes",
 		"Dictionaries",
+		"DocBlockr",
+		"EditorConfig",
 		"EJS",
 		"Elm Language Support",
 		"Emmet",
@@ -21,16 +25,24 @@
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
-		"PhpDoc",
 		"PHPIntel",
 		"PlainTasks",
 		"Sass",
 		"Select Quoted",
+		"SFTP",
 		"SideBarEnhancements",
+		"Stylus",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Terminal",
-		"TrailingSpaces"
+		"TerminalView",
+		"TrailingSpaces",
+		"TypeScript",
+		"WakaTime"
 	]
 }
